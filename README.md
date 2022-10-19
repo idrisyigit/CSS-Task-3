@@ -1,2 +1,3 @@
 # Google Clone with HTML & CSS
-![](img/Google%20Clone.PNG)
+![](assets/ss.png)
+* Patika.dev link: https://app.patika.dev/yigitmustu
